@@ -16,4 +16,8 @@ The interactive Power BI dashboard includes:
 - **Category-wise performance** (Veg, Non-Veg, Others)  
 - **User analysis** by age and gender  
 - **City-level breakdown** of sales and ratings  
-- Year-over-year trends for better decision-making  
+- Year-over-year trends for better decision-making
+
+ ##  Dataset  
+Due to GitHub’s file size limit, the dataset files are stored on Google Drive.  
+- [Download Dataset Here]
