@@ -56,7 +56,7 @@ Based on the analysis, Zomato can take the following actions to strengthen its p
 
 ### User Performance  
 - Focuses on **customer demographics, retention, and churn**, with insights by age and gender to understand user behavior.  
-![User Performance]()  
+![User Performance](https://github.com/ChitraSatyaLahariPatnala/Zomato_Performance_Analysis_PowerBI/blob/main/User%20Performance.png)  
 
 ### City Performance  
 - Displays **city-wise sales and engagement**, highlighting top-performing locations and identifying areas with growth opportunities.  
