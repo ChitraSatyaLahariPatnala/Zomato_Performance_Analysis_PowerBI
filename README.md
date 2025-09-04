@@ -52,7 +52,7 @@ Based on the analysis, Zomato can take the following actions to strengthen its p
 
 ### Overview Page  
 - Provides a **high-level summary of KPIs** including sales, orders, ratings, and user activity for a quick understanding of performance.  
-![Overview Page]()  
+![Overview Page](https://github.com/ChitraSatyaLahariPatnala/Zomato_Performance_Analysis_PowerBI/blob/main/Overview%20page.png)
 
 ### User Performance  
 - Focuses on **customer demographics, retention, and churn**, with insights by age and gender to understand user behavior.  
