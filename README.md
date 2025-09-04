@@ -60,7 +60,14 @@ Based on the analysis, Zomato can take the following actions to strengthen its p
 
 ### City Performance  
 - Displays **city-wise sales and engagement**, highlighting top-performing locations and identifying areas with growth opportunities.  
-![City Performance](https://github.com/ChitraSatyaLahariPatnala/Zomato_Performance_Analysis_PowerBI/blob/main/City%20Performance.png)  
+![City Performance](https://github.com/ChitraSatyaLahariPatnala/Zomato_Performance_Analysis_PowerBI/blob/main/City%20Performance.png)
+
+
+
+##  Final Summary  
+This Zomato analysis provides a clear view of sales trends, user behavior, and city performance.  
+It highlights key growth drivers, retention challenges, and areas for business expansion.  
+The insights can guide Zomato in improving customer engagement and driving sustainable growth.  
 
 
 
