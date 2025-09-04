@@ -37,18 +37,18 @@ Due to GitHub’s file size limit, the dataset files are stored on Google Drive.
 
 ## Business Improvements  
 Based on the analysis, Zomato can take the following actions to strengthen its performance:  
-1. **Promote Veg and Other Categories** → Launch offers, discounts, and campaigns to balance the dominance of Non-Veg sales.  
-2. **Retention Strategy** → Introduce loyalty rewards, cashback, and personalized notifications to reduce user churn (~33K users lost).  
-3. **Regional Growth Focus** → Cities like Raipur and Baner should be targeted with localized marketing campaigns and partnerships with popular local restaurants.  
-4. **Youth Engagement** → Since the 20–30 age group dominates, Zomato can expand student/youth-focused offers to further strengthen loyalty.  
-5. **Customer Experience** → Enhance service in low-performing areas and ensure faster delivery to boost satisfaction and repeat orders.
+1. **Promote Veg and Other Categories** - Launch offers, discounts, and campaigns to balance the dominance of Non-Veg sales.  
+2. **Retention Strategy** - Introduce loyalty rewards, cashback, and personalized notifications to reduce user churn (~33K users lost).  
+3. **Regional Growth Focus** - Cities like Raipur and Baner should be targeted with localized marketing campaigns and partnerships with popular local restaurants.  
+4. **Youth Engagement** - Since the 20–30 age group dominates, Zomato can expand student/youth-focused offers to further strengthen loyalty.  
+5. **Customer Experience** - Enhance service in low-performing areas and ensure faster delivery to boost satisfaction and repeat orders.
 
 
 ## Dashboard Pages  
 
 ### Index Page  
-- Serves as the **introduction** to the report, giving a clear starting point and directing users to analysis sections.  
-![Index Page]()  
+- Serves as the **introduction and navigation page** to the report, giving a clear starting point and directing users to analysis sections.  
+![Index Page](https://github.com/ChitraSatyaLahariPatnala/Zomato_Performance_Analysis_PowerBI/blob/main/Index%20page.png)  
 
 ### Overview Page  
 - Provides a **high-level summary of KPIs** including sales, orders, ratings, and user activity for a quick understanding of performance.  
