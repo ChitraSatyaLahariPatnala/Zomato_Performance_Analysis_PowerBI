@@ -20,7 +20,7 @@ The interactive Power BI dashboard includes:
 
  ## Dataset  
 Due to GitHub’s file size limit, the dataset files are stored on Google Drive.  
-- [Download Dataset Here]
+- Dataset link : [Download Dataset Here](https://drive.google.com/drive/folders/1JuU4oygoB2GJlGBSEAXpP-nRYlqEe00J?usp=drive_link)
 
 
 ## Tools & Skills Used  
@@ -41,6 +41,27 @@ Based on the analysis, Zomato can take the following actions to strengthen its p
 2. **Retention Strategy** → Introduce loyalty rewards, cashback, and personalized notifications to reduce user churn (~33K users lost).  
 3. **Regional Growth Focus** → Cities like Raipur and Baner should be targeted with localized marketing campaigns and partnerships with popular local restaurants.  
 4. **Youth Engagement** → Since the 20–30 age group dominates, Zomato can expand student/youth-focused offers to further strengthen loyalty.  
-5. **Customer Experience** → Enhance service in low-performing areas and ensure faster delivery to boost satisfaction and repeat orders.  
+5. **Customer Experience** → Enhance service in low-performing areas and ensure faster delivery to boost satisfaction and repeat orders.
+
+
+## Dashboard Pages  
+
+### Index Page  
+- Serves as the **introduction** to the report, giving a clear starting point and directing users to analysis sections.  
+![Index Page]()  
+
+### Overview Page  
+- Provides a **high-level summary of KPIs** including sales, orders, ratings, and user activity for a quick understanding of performance.  
+![Overview Page]()  
+
+### User Performance  
+- Focuses on **customer demographics, retention, and churn**, with insights by age and gender to understand user behavior.  
+![User Performance]()  
+
+### City Performance  
+- Displays **city-wise sales and engagement**, highlighting top-performing locations and identifying areas with growth opportunities.  
+![City Performance]()  
+
+
 
  
