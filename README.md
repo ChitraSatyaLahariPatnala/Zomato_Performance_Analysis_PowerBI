@@ -60,7 +60,7 @@ Based on the analysis, Zomato can take the following actions to strengthen its p
 
 ### City Performance  
 - Displays **city-wise sales and engagement**, highlighting top-performing locations and identifying areas with growth opportunities.  
-![City Performance]()  
+![City Performance](https://github.com/ChitraSatyaLahariPatnala/Zomato_Performance_Analysis_PowerBI/blob/main/City%20Performance.png)  
 
 
 
