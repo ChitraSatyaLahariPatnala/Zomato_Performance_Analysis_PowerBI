@@ -65,9 +65,9 @@ Based on the analysis, Zomato can take the following actions to strengthen its p
 
 
 ##  Final Summary  
-This Zomato analysis provides a clear view of sales trends, user behavior, and city performance.  
-It highlights key growth drivers, retention challenges, and areas for business expansion.  
-The insights can guide Zomato in improving customer engagement and driving sustainable growth.  
+- This Zomato analysis provides a clear view of sales trends, user behavior, and city performance.  
+- It highlights key growth drivers, retention challenges, and areas for business expansion.  
+- The insights can guide Zomato in improving customer engagement and driving sustainable growth.  
 
 
 
