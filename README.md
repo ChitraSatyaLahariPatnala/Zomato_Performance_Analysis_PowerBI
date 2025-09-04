@@ -48,7 +48,7 @@ Based on the analysis, Zomato can take the following actions to strengthen its p
 
 ### Index Page  
 - Serves as the **introduction and navigation page** to the report, giving a clear starting point and directing users to analysis sections.  
-![Index Page](https://github.com/ChitraSatyaLahariPatnala/Zomato_Performance_Analysis_PowerBI/blob/main/Index%20page.png)  
+![Index Page](https://github.com/ChitraSatyaLahariPatnala/Zomato_Performance_Analysis_PowerBI/blob/main/Index%20page.png)
 
 ### Overview Page  
 - Provides a **high-level summary of KPIs** including sales, orders, ratings, and user activity for a quick understanding of performance.  
